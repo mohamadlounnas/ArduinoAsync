@@ -1,0 +1,15 @@
+# Python & Bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Model Checkpoints & Audio Artifacts
+*.pt
+*.pth
+*.wav
+dataset/wavs/*.wav
+
+# IDE & OS files
+.DS_Store
+.idea/
+.vscode/
